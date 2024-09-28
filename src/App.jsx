@@ -364,6 +364,7 @@ const App = () => {
                <div class="flex justify-between rounded-md items-center border-red-400 border p-2">
                   <p class="text-red-600">Unsolve Questions</p>
                   <button class="bg-red-600 text-white">Escalate Ques</button>
+                  
                </div>
                <div>Reason for Execution</div>
                <div>
