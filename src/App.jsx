@@ -166,8 +166,6 @@ const App = () => {
             </ul>
           </div>
         </aside>
-
-
         <nav class="bg-white border-b-2 border-b-[#DEDEDE] shadow-lg shadow-cyan-[#DEDEDE] dark:bg-gray-900 ">
           <div class=" flex    items-center  justify-between     p-4">
             <form class=" w-64   p-4">
